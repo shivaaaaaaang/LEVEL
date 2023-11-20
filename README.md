@@ -72,9 +72,9 @@ jekyll s
 ```
 You will see the following, click the **Server address** to open up the website
 ```
-Configuration file: /Users/woodylin/Documents/LEVEL/_config.yml
-            Source: /Users/woodylin/Documents/LEVEL
-       Destination: /Users/woodylin/Documents/LEVEL/_site
+Configuration file: /Users/shivangraikar/Desktop/LEVEL/_config.yml
+            Source: /Users/shivangraikar/Desktop/LEVEL
+       Destination: /Users/shivangraikar/Desktop/_site
  Incremental build: disabled. Enable with --incremental
       Generating... 
                     done in 0.249 seconds.
